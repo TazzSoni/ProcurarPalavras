@@ -18,6 +18,7 @@ public class Contador extends Thread {
     @Override
     public void run() {
         for (int i = inicio; i <= fim; i++) {
+            //Adicionar a pasta dataset ao diretório raíz do projeto
             File file = new File("dataset" + File.separator + i + ".txt");
             try {
                 FileReader fileReader = new FileReader(file);
