@@ -5,7 +5,7 @@
 
 # Procurar Palavras em Arquivos com Threads
 
-Atividade desenvolvida para a disciplina de Inteligência Computacional do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)<br>
+Atividade desenvolvida para a disciplina de Desenvolvimento de Sistemas Paralelos e Distribuídos do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)<br>
 Desenvolver um programa que determina a quantidade de ocorrências de uma palavra (em inglês)
 em arquivos de texto.
 
